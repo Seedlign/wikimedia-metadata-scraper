@@ -1,0 +1,11 @@
+# outputs (your folders)
+transport/
+festival/
+
+# generated python files
+__pycache__/
+*.pyc
+
+# optional env
+.env
+.venv/
